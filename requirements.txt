@@ -1,0 +1,14 @@
+# core (Steps 1-4)
+numpy>=1.22
+pandas>=1.4
+matplotlib>=3.5
+pytest>=7
+
+# optional: ERA5 contrail statistics (scripts/download_era5.py, supersaf/era5.py)
+# xarray>=2022.6
+# netCDF4>=1.6
+# cdsapi>=0.7
+
+# optional: only to re-create data/*.csv from the original sources (tools/)
+# pyrtlib
+# pycontrails
