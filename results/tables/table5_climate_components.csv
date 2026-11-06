@@ -1,0 +1,10 @@
+Aircraft,Fuel,CO2 (life cycle) [g CO2e/pkm],Water vapour [g CO2e/pkm],NOx [g CO2e/pkm],Sulphate aerosol [g CO2e/pkm],Contrails [g CO2e/pkm],"Total, central [g CO2e/pkm]","Total, MC 5 % [g CO2e/pkm]","Total, MC median [g CO2e/pkm]","Total, MC 95 % [g CO2e/pkm]",Contrail upper bound (SST only) [g CO2e/pkm]
+Concorde,Jet A-1,442.3,260.6,340,-154,0,888.9,763,964.7,1195,47.36
+Concorde,SAF50,283,270.5,331.5,-75.84,0,809.1,701.9,910.3,1142,45.02
+Concorde,SAF100,128.6,280.2,320.6,-0,0,729.4,621.1,855.9,1111,44.12
+Overture-like,Jet A-1,260.8,131,146.9,-83.35,0,455.3,391.6,488,593.8,74.31
+Overture-like,SAF50,166.9,136,143.4,-41.06,0,405.3,352.6,453.4,563.2,56.86
+Overture-like,SAF100,75.9,141,140.1,-0,0,356.9,301.8,421,548.5,50.22
+A350-900,Jet A-1,90.64,2.009,9.543,-7.44,131.5,226.3,177.9,224.4,269.6,
+A350-900,SAF50,58.12,2.089,9.281,-3.669,91.82,157.6,126.8,162.1,197.2,
+A350-900,SAF100,26.46,2.167,9.029,-0,71.97,109.6,83.76,119.8,157.8,

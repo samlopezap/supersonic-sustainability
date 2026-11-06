@@ -1,0 +1,7 @@
+Aircraft,Fuel,"Change in total, central [%]","Change in total, MC 5 % [%]","Change in total, MC 95 % [%]",Change in CO2 alone [%],Contribution of CO2 (life cycle) [g CO2e/pkm],Contribution of Water vapour [g CO2e/pkm],Contribution of NOx [g CO2e/pkm],Contribution of Sulphate aerosol [g CO2e/pkm],Contribution of Contrails [g CO2e/pkm],P(benefit smaller than half the A350 benefit)
+Concorde,SAF50,-8.972,-12.38,1.721,-36.03,-159.4,9.961,-8.549,78.19,0,0.9972
+Concorde,SAF100,-17.94,-24.66,3.024,-70.93,-313.8,19.62,-19.37,154,0,0.9832
+Overture-like,SAF50,-10.98,-14.89,1.441,-35.99,-93.86,5.064,-3.483,42.29,0,0.9788
+Overture-like,SAF100,-21.61,-29.33,2.853,-70.9,-184.9,9.98,-6.835,83.35,0,0.9147
+A350-900,SAF50,-30.34,-33.17,-21.22,-35.89,-32.53,0.07996,-0.2619,3.771,-39.71,
+A350-900,SAF100,-51.55,-57.23,-33.49,-70.81,-64.18,0.1578,-0.5133,7.44,-59.56,

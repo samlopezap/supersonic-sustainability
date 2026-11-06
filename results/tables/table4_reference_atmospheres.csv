@@ -1,0 +1,19 @@
+Aircraft,Atmosphere,Ambient T [C] (min..max),"T minus threshold, Jet A-1 [K] (min..max)","Band with SAC met, Jet A-1 [%]","Band with SAC met, SAF100 [%]",Water vapour [ppmv] (min..max),Max RHi [%],Cooling needed to reach ice saturation [K],Band with persistent contrails [%]
+Concorde,Tropical,-78.3..-73.3,-19.6..-12.6,100,100,2.7..3.0,37.82,5.836,0
+Concorde,Midlatitude summer,-57.4..-55.8,+0.3..+4.9,0,14.63,3.2..3.3,2.264,25.33,0
+Concorde,Midlatitude winter,-57.4..-56.3,+1.4..+3.3,0,0,4.5..4.6,2.761,24.39,0
+Concorde,Subarctic summer,-47.9..-47.9,+9.8..+12.7,0,0,4.0..4.4,0.8348,33.61,0
+Concorde,Subarctic winter,-57.4..-56.1,+1.6..+3.3,0,0,4.6..4.7,2.659,24.66,0
+Concorde,US standard,-56.4..-56.4,+1.3..+4.2,0,0,3.8..4.1,2.465,25.04,0
+Overture-like,Tropical,-78.3..-74.4,-19.6..-14.1,100,100,2.8..3.2,37.88,5.827,0
+Overture-like,Midlatitude summer,-57.4..-56.2,-0.6..+4.1,19.51,39.02,3.2..3.3,2.539,24.65,0
+Overture-like,Midlatitude winter,-57.2..-56.0,+0.8..+3.0,0,0,4.5..4.7,2.959,24.04,0
+Overture-like,Subarctic summer,-47.9..-47.9,+8.9..+12.3,0,0,4.0..4.3,0.9171,33.05,0
+Overture-like,Subarctic winter,-57.2..-55.9,+0.9..+3.0,0,0,4.5..4.7,2.842,24.29,0
+Overture-like,US standard,-56.4..-56.4,+0.4..+3.8,0,12.2,3.8..4.7,3.135,23.59,0
+A350-900,Tropical,-52.9..-44.6,-0.8..+5.7,17.07,29.27,16.9..58.6,18.52,13.48,0
+A350-900,Midlatitude summer,-53.4..-45.2,-1.3..+5.1,26.83,39.02,17.7..82.4,27.83,10.32,0
+A350-900,Midlatitude winter,-54.3..-53.7,-3.4..-2.2,100,100,6.9..17.6,16.95,13.08,0
+A350-900,Subarctic summer,-47.9..-47.9,+2.3..+4.2,0,0,5.9..17.5,8.251,18.86,0
+A350-900,Subarctic winter,-55.9..-55.9,-5.7..-3.8,100,100,8.5..18.8,24.22,10.37,0
+A350-900,US standard,-56.4..-54.3,-5.6..-4.0,100,100,20.2..44.6,46.69,5.675,0

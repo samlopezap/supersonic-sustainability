@@ -1,0 +1,5 @@
+Quantity,Measured (Fahey 1995),Fusaro et al. S2F2,This code S2F2,This code FFM2 (subsonic method),"This code S2F2, SAF100"
+Sea-level-equivalent fuel flow [kg/h],,,1.286e+04,4.375e+04,1.254e+04
+EINOx at cruise [g/kg],20.97,22.3,20.16,12.09,19.73
+EICO at cruise [g/kg],,1.9,1.914,4.764,2.131
+EIHC at cruise [g/kg],,0.17,0.174,0.4331,0.1923
